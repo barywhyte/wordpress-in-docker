@@ -14,6 +14,6 @@
 * Create docker-compose yaml file for wordpress, mysql/postgresql, nginx and optionally SSL cert. services
 * Bring up the entire stack in one liner with : docker-compose up -d
 * Navigate to your IP on broswer and complete wordpress installation
-* Setup your domain name with Google Cloud DNS to route traffic to a specific domain and chanhe IP address to static 
+* Setup your domain name with Google Cloud DNS to route traffic to a specific domain and change IP address to static 
 
-####END
+#### END
